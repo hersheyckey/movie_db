@@ -4,7 +4,7 @@ The Weather App is a mobile application designed to provide users with accurate 
 
 ## Features
 
-- Fetches weather data from various sources
+- Fetches Movie data from various sources
 - Displays weather information to users
 - Separates business logic from presentation for easy maintenance
 
