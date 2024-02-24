@@ -31,7 +31,13 @@ The Weather App is a mobile application designed to provide users with accurate 
 3. Run `flutter pub get` to install dependencies.
 4. Launch the app using `flutter run`.
 
-## Contributing
+## App ScreenShots
+![screenshot-3](https://github.com/hersheyckey/movie_db/assets/123447308/0267f351-4455-4a47-a289-3474e6c5ad9e)
+![screenshot-2](https://github.com/hersheyckey/movie_db/assets/123447308/cb8fdae7-3144-4485-94ab-f144781c529c)
+![screenshot-1](https://github.com/hersheyckey/movie_db/assets/123447308/ee1fd1b7-ed06-4c04-ab78-b8634d04de09)
+![screenshot-6](https://github.com/hersheyckey/movie_db/assets/123447308/cbb35820-fec2-42f1-a6c0-7922549dc663)
+![screenshot-5](https://github.com/hersheyckey/movie_db/assets/123447308/72f02ba9-4c31-4c3b-be83-ce2b5c9eae5d)
+![screenshot-4](https://github.com/hersheyckey/movie_db/assets/123447308/5e9cfc73-68e1-4e4a-b6ef-36cac1585f24)
 
 Contributions are welcome! Fork this repository, make your enhancements or fixes, and submit pull requests following the contribution guidelines.
 
